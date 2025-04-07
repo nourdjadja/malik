@@ -12,10 +12,10 @@ export default function AnaglyphText({ children, href }) {
   useEffect(() => {
     const interval = setInterval(() => {
       // Génère des offsets aléatoires pour l’effet anaglyphe
-      const offsetX1 = randomBetween(-8, 4);
-      const offsetY1 = randomBetween(-8, 4);
-      const offsetX2 = randomBetween(-4, 4);
-      const offsetY2 = randomBetween(-4, 4);
+      const offsetX1 = randomBetween(-3, 4);
+      const offsetY1 = randomBetween(-3, 4);
+      const offsetX2 = randomBetween(-3, 4);
+      const offsetY2 = randomBetween(-3, 4);
 
       setShadow(`
         ${offsetX1}px ${offsetY1}px 0 #FC05CF,
