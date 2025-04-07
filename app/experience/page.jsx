@@ -134,7 +134,7 @@ export default function ExperiencePage() {
   return (
     <main className="min-h-screen text-white p-4 bg-black">
       <div className="relative top-[30vh] max-w-[90vw] h-[40vh] z-10 mx-auto">
-        <div className="text-center mb-16 scale-[200%]">
+        <div className="text-center mb-16 scale-[110%]">
           <AnaglyphText>Compétences BTS SIO</AnaglyphText>
         </div>
         <div className="flex flex-wrap lg:flex-nowrap gap-2 justify-between pb-4">

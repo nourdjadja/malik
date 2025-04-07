@@ -35,13 +35,10 @@ export default function Home() {
 
         {/* DESCRIPTION */}
         <p className="
-        scale-[120%]
           max-w-2xl text-center text-lg sm:text-xl md:text-2xl
           leading-relaxed mb-6 neon-text
         ">
           <span className="inline-block">Prénom : <strong>Danial</strong>, Nom : <strong>MALIK</strong>.</span><br/>
-          Origine : <strong>PAKISTAN</strong>.
-          <br /><br />
           <AnaglyphText>Je suis informaticien</AnaglyphText>, étudiant en réseau & cybersécurité. Ici, vous trouverez la majorité de mon travail réalisé en 2 ans d'informatique au Lycée de l'Hautil de Jouy-le-Moutier.
           <br />
           <strong>Mon CV :</strong>
