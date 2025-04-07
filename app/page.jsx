@@ -15,7 +15,7 @@ export default function Home() {
       />
       
       {/* Contenu principal */}
-      <section className="relative top-[20vh] z-10 flex flex-col items-center justify-center h-full px-4 py-20">
+      <section className="relative top-[14vh] z-10 flex flex-col items-center justify-center h-full px-4 py-20">
         
         {/* TITRE PRINCIPAL */}
         <h1 className="font-extrabold text-4xl sm:text-6xl md:text-7xl text-center mb-8 glitchy-title">
