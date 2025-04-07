@@ -27,7 +27,7 @@ export default function NavBar() {
   ];
   
 
-  const navHeight = expanded ? 'h-[180px]' : 'h-[100px]';
+  const navHeight = expanded ? 'h-[130px]' : 'h-[90px]';
 
   return (
     <nav

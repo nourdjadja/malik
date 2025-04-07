@@ -18,7 +18,7 @@ export default function Footer() {
     };
   }, []);
 
-  const footerHeight = expanded ? 'h-[180px]' : 'h-[100px]';
+  const footerHeight = expanded ? 'h-[130px]' : 'h-[80px]';
 
   return (
     <footer
