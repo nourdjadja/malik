@@ -35,7 +35,7 @@ export default function Home() {
 
         {/* DESCRIPTION */}
         <p className="
-        scale-[150%]
+        scale-[120%]
           max-w-2xl text-center text-lg sm:text-xl md:text-2xl
           leading-relaxed mb-6 neon-text
         ">
@@ -43,11 +43,9 @@ export default function Home() {
           Origine : <strong>PAKISTAN</strong>.
           <br /><br />
           <AnaglyphText>Je suis informaticien</AnaglyphText>, étudiant en réseau & cybersécurité. Ici, vous trouverez la majorité de mon travail réalisé en 2 ans d'informatique au Lycée de l'Hautil de Jouy-le-Moutier.
-          <br /><br />
-
+          <br />
           <strong>Mon CV :</strong>
-          <br /><br />
-
+          <br />
           <a
     href="/MALIK%20DANIAL%20(4).pdf"
     download="MALIK_DANIAL_CV.pdf"
