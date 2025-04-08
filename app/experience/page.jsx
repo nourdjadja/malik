@@ -26,7 +26,7 @@ export default function ExperiencePage() {
         },
         {
           fileName: "Mettre en place et vérifier les niveaux d’habilitation associées à un service (2).pdf",
-          fileUrl: "Mettre%20en%20place%20et%20vérifier%20les%20niveaux%20d’habilitation%20associées%20à%20un%20service%20(2).pdf",
+          fileUrl: "habilserv.pdf",
         },
         {
           fileName: "Clonage disque dur (1).pdf",
@@ -45,19 +45,19 @@ export default function ExperiencePage() {
       files: [
         {
           fileName: "Répondre aux incidents _Collecter, suivre et orienter les demandes (1).pdf",
-          fileUrl: "Répondre%20aux%20incidents%20et%20aux%20demandes%20d’assistance%20et%20d’évolution%20_Collecter,%20suivre%20et%20orienter%20les%20demandes%20(1).pdf",
+          fileUrl: "orienterdem.pdf",
         },
         {
           fileName: "Répondre aux incidents _Traiter des demandes concernant les applications (2).pdf",
-          fileUrl: "concernant_app.pdf.pdf",
+          fileUrl: "concernant_app.pdf",
         },
         {
           fileName: "Répondre aux incidents _Traiter des demandes concernant les services réseau et système, applicatifs (3).pdf",
-          fileUrl: "Répondre%20aux%20incidents%20et%20aux%20demandes%20d’assistance%20et%20d’évolution%20_Traiter%20des%20demandes%20concernant%20les%20services%20réseau%20et%20système,%20applicatifs%20(3).pdf",
+          fileUrl: "applicatif.pdf",
         },
         {
           fileName: "Collecter, suivre et orienter les demandes (2).pdf",
-          fileUrl: "Collecter,%20suivre%20et%20orienter%20les%20demandes%20(2).pdf",
+          fileUrl: "collec_demandes.pdf",
         },
       ],
     },
